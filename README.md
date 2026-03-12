@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8590C&height=100&section=header" width="100%"/>
 
-<!-- CURSIVE NAME — types once and stays (height=70 to prevent top clipping on ascenders) -->
+<!-- CURSIVE NAME — types once and stays (height=80 to prevent top clipping on ascenders) -->
 <a href="https://github.com/lillianwang112"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=2000&pause=100000&color=E8590C&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hey%2C+I'm+Lillian+%F0%9F%91%8B" alt="Hey, I'm Lillian 👋" /></a>
 
 <!-- ANIMATED TAGLINES -->
