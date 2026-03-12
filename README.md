@@ -116,7 +116,7 @@ Paste in lecture passages and race against adaptive bots named after neurotransm
 
 <div align="center">
 
-*I build things that scratch my own itch — and then I open-source them.*
+*I build tools when existing ones frustrate me - and then I open-source them.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8590C&height=80&section=footer" width="100%"/>
 
