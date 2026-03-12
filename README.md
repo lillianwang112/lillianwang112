@@ -28,7 +28,9 @@ When I'm not doing math or writing code, I'm probably reading a nice fic or watc
 
 <h2>What I've Built</h2>
 
-<h3>📖 <a href="https://lillianwang112.github.io/chinese-learning-app/">汉语学习 — Chinese Learning App</a></h3>
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/icons/icon-72.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/chinese-learning-app/">汉语学习 — Chinese Learning App</a></h3>
+
+<a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/screenshots/hero.jpeg" width="100%" alt="Chinese Learning App Hero" /></a>
 
 > A full-featured Chinese vocabulary app built for Princeton's CHI 108 — because Quizlet wasn't cutting it.
 
@@ -44,7 +46,9 @@ When I'm not doing math or writing code, I'm probably reading a nice fic or watc
 
 <br/>
 
-<h3>🗓️ <a href="https://lillianwang112.github.io/tiger-calendar/">TigerCalendar</a></h3>
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/icons/icon-96x96.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/tiger-calendar/">TigerCalendar</a></h3>
+
+<a href="https://lillianwang112.github.io/tiger-calendar/"><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/screenshots/hero.png" width="100%" alt="TigerCalendar Hero" /></a>
 
 > A Princeton-specific calendar PWA that turns your course schedule into something actually usable.
 
