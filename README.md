@@ -78,19 +78,7 @@ Paste in lecture passages and race against adaptive bots named after neurotransm
 
 <div align="center">
 
-**Languages**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-**Frameworks & Tools**&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github-pages&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,html,css,latex,react,tailwind,firebase,git,github" alt="Tech Stack" /></a>
 
 </div>
 
@@ -115,6 +103,12 @@ Paste in lecture passages and race against adaptive bots named after neurotransm
 ---
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lillianwang112/lillianwang112/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lillianwang112/lillianwang112/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lillianwang112/lillianwang112/output/github-snake.svg" width="100%" />
+</picture>
 
 *I build tools when existing ones frustrate me - and then I open-source them.*
 
