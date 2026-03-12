@@ -108,7 +108,7 @@ Paste in lecture passages and race against adaptive bots named after neurotransm
 <br/>
 🔨 &nbsp;**Iterating** on TigerCalendar — loading skeleton, dropdown view selector, ICS export rework
 <br/>
-📬 &nbsp;**Drafting** a pitch to TigerApps for registrar API access
+📬 &nbsp;**Drafting** a pitch for registrar API access
 <br/>
 ☀️ &nbsp;**Counting down** to my ZERO Lab internship starting June 1
 
