@@ -8,36 +8,20 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Generate Snake Animation
-        run: |
-          # Use the Platane/snk docker image to avoid Node.js version issues
-          mkdir -p dist
-          docker run --rm \
-            -e GITHUB_USER_NAME=lillianwang112 \
-            -v ${{ github.workspace }}/dist:/dist \
-            ghcr.io/platane/snk:v3 \
-              --userName lillianwang112 \
-              --outputPath /dist/github-snake.svg \
-              --palette "github-light" || true
-
-          # Generate dark variant
-          docker run --rm \
-            -e GITHUB_USER_NAME=lillianwang112 \
-            -v ${{ github.workspace }}/dist:/dist \
-            ghcr.io/platane/snk:v3 \
-              --userName lillianwang112 \
-              --outputPath /dist/github-snake-dark.svg \
-              --palette "github-dark" || true
-
-      - name: Check output
-        run: ls -la dist/
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: lillianwang112
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         run: |
