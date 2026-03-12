@@ -17,11 +17,11 @@
 
 ### About Me
 
-I'm a freshman at **Princeton University** (Class of 2029) studying **mathematics**, building tools I wish existed and chasing a PhD in applied math. I'm drawn to systems-level problems — energy, computation, policy — and I like writing software that solves real problems for real people.
+I'm a freshman at **Princeton University** (Class of 2029) studying **mathematics**, building tools I wish existed and chasing a PhD in applied math. I'm drawn to systems-level problems (e.g., energy, computation, policy) and I like writing software that solves real problems for real people.
 
 This summer, I'm joining the **[ZERO Lab](https://zero.princeton.edu/)** at Princeton's High Meadows Environmental Institute to build software for energy systems optimization models under Jesse Jenkins.
 
-When I'm not doing math or writing code, I'm probably reading Harry Potter fanfic or watching Law & Order SVU.
+When I'm not doing math or writing code, I'm probably reading a nice fic or watching Law & Order.
 
 ---
 
@@ -84,7 +84,7 @@ When I'm not doing math or writing code, I'm probably reading Harry Potter fanfi
 
 ### Research
 
-**Computational Social Science** — Applied Girard's theory of triangular desire to AI companion platforms (r/Replika, r/CharacterAI) using seeded LDA, VADER sentiment analysis, NRC emotion lexicons, and the extended Moral Foundations Dictionary. Identified three distinct discourse clusters in how users narrate relationships with AI. Presented at **Princeton Research Day 2026**.
+**Computational Social Science** — Applied Girard's theory of triangular desire to AI companion platforms (r/Replika, r/CharacterAI) using seeded LDA, VADER sentiment analysis, NRC emotion lexicons, and the extended Moral Foundations Dictionary. Identified three distinct discourse clusters in how users narrate relationships with AI. Nominated presenter **Princeton Research Day 2026**.
 
 ---
 
