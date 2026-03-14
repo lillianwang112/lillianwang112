@@ -20,8 +20,6 @@
 
 I'm a freshman at **Princeton** studying **mathematics** who builds tools when existing ones frustrate me — and then open-sources them. Drawn to systems-level problems in energy, computation, and policy, and chasing a PhD in applied math.
 
-This summer I'm joining the **[ZERO Lab](https://zero.lab.princeton.edu/)** at Princeton HMEI to build software for energy systems optimization models under Jesse Jenkins.
-
 When I'm not doing math or writing code, I'm probably reading a nice fic or watching Law & Order.
 
 ---
@@ -120,7 +118,6 @@ Paste in lecture passages and race against adaptive bots named after neurotransm
 <br/>
 📬 &nbsp;**Drafting** a pitch for registrar API access
 <br/>
-☀️ &nbsp;**Counting down** to my ZERO Lab internship starting June 1
 
 ---
 
