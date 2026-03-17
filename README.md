@@ -62,6 +62,24 @@ Fast course setup, recurring events, drag-to-create, office hours tracking, exam
 
 <br/>
 
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/icons/icon-192x192.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/axiom-study/">Axiom — Math Study Environment</a></h3>
+
+<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/screenshots/hero.png" width="100%" alt="Axiom Hero" /></a>
+
+> A math study environment built for active recall — because reading past theorems isn't the same as knowing them.
+
+Paste your lecture notes or textbook LaTeX and Axiom structures them into collapsible definitions, theorems, lemmas, and proofs. Problem sets link back to the relevant section, a flashcard review mode drills every block, and a context-aware AI tutor is one click away. Firebase sync, KaTeX rendering, study streak tracking. Free, ad-free, open source.
+
+<p>
+<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/axiom-study"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/axiom-study?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+</p>
+
+`KaTeX` `Firebase` `Puter.js` `GitHub Pages`
+
+<br/>
+
 <h3>⚡ <a href="https://github.com/lillianwang112/PokeRace">PokéRace</a></h3>
 
 <a href="https://github.com/lillianwang112/PokeRace"><img src="https://raw.githubusercontent.com/lillianwang112/PokeRace/main/screenshots/hero.jpeg" width="100%" alt="PokéRace Hero" /></a>
