@@ -26,7 +26,7 @@ When I'm not doing math or writing code, I'm probably reading a nice fic or watc
 
 <h2>What I've Built</h2>
 
-<h3><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/icons/icon-72.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/chinese-learning-app/"中文-Learn — Chinese Learning App</a></h3>
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/icons/icon-72.png" width="28" align="top" />&nbsp;<a href汉语学习 — Chinese Learning App</a></h3>
 
 <a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/screenshots/hero.jpeg" width="100%" alt="Chinese Learning App Hero" /></a>
 
