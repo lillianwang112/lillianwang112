@@ -133,7 +133,7 @@ Paste in any lecture passage and race Pokémon opponents that scale to your WPM.
 
 <h2>Right Now</h2>
 
-📚 &nbsp;**Finishing the semester** — finals prep across MAT 217, ECO 310, QCB 311, and CHI 108
+📚 &nbsp;**Finishing the semester** — finals prep for all of my courses
 <br/>
 🏆 &nbsp;**Just shipped** — AlphaMove · 2nd Place, Consumer Application Track · Princeton AI × Finance Hackathon (March 2026)
 <br/>
