@@ -80,7 +80,9 @@ Paste your lecture notes or textbook LaTeX and Axiom structures them into collap
 
 <br/>
 
-<h3>♟ <a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/alphamove-icon.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
+
+<a href="https://lillianwang112.github.io/alphamove/"><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/hero.jpg" width="100%" alt="AlphaMove Hero" /></a>
 
 > Chess meets Duolingo for investing — an AI-mentored paper trading simulator built in 8 hours at Princeton's AI × Finance Hackathon.
 
