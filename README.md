@@ -80,6 +80,24 @@ Paste your lecture notes or textbook LaTeX and Axiom structures them into collap
 
 <br/>
 
+<h3>♟ <a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
+
+> Chess meets Duolingo for investing — an AI-mentored paper trading simulator built in 8 hours at Princeton's AI × Finance Hackathon.
+
+**🏆 2nd Place, Track 1 — Consumer Application** · AI@Princeton × Trade[XYZ] Hackathon · March 2026 · co-sponsored by Anthropic
+
+Before every trade, Alpha (your AI mentor) pressure-tests your reasoning using Socratic questioning. After every trade, you get a chess-style move rating — *brilliant, great, good, inaccuracy, mistake, blunder* — based on how well you thought, not just whether the stock went up. 10-level progressive mentor system, multi-asset trading (stocks, ETFs, crypto, options), AI morning brief, and a full XP/streak gamification layer.
+
+<p>
+<a href="https://lillianwang112.github.io/alphamove/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/alphamove"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/alphamove?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+</p>
+
+`React 19` `TypeScript` `Firebase` `Finnhub API` `Puter.js` `GitHub Pages`
+
+<br/>
+
 <h3>⚡ <a href="https://github.com/lillianwang112/PokeRace">PokéRace</a></h3>
 
 <a href="https://github.com/lillianwang112/PokeRace"><img src="https://raw.githubusercontent.com/lillianwang112/PokeRace/main/screenshots/hero.jpeg" width="100%" alt="PokéRace Hero" /></a>
@@ -115,11 +133,11 @@ Paste in any lecture passage and race Pokémon opponents that scale to your WPM.
 
 <h2>Right Now</h2>
 
-🌞 &nbsp;**Spring break** — first-pass reviewing all remaining CHI 108 semester vocabulary (~419 cards) through my SRS app
+📚 &nbsp;**Finishing the semester** — finals prep for all of my courses
 <br/>
-🔨 &nbsp;**Iterating** on TigerCalendar — loading skeleton, dropdown view selector, ICS export rework
+🏆 &nbsp;**Just shipped** — AlphaMove · 2nd Place, Consumer Application Track · Princeton AI × Finance Hackathon (March 2026)
 <br/>
-📬 &nbsp;**Drafting** a pitch for registrar API access
+⚡ &nbsp;**Coming up** — joining the ZERO Lab at Princeton HMEI this summer (energy systems optimization in Julia/Python under Jesse Jenkins)
 
 ---
 
