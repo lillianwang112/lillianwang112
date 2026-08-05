@@ -18,9 +18,9 @@
 
 ---
 
-I'm a freshman at **Princeton** studying **mathematics** who builds tools when existing ones frustrate me — and then open-sources them. Drawn to systems-level problems in energy, computation, and policy, and chasing a PhD in applied math.
+I'm a rising sophomore at **Princeton** majoring in **mathematics**. I'm currently working on systems-level problems in energy, computation, and policy, and ultimately chasing a PhD in applied math.
 
-When I'm not doing math or writing code, I'm probably reading a nice fic or watching Law & Order.
+When I'm not doing math or writing code, I'm probably side questing. Feel free to scroll down and check out some of the apps I built in last semester's side quest!
 
 ---
 
@@ -135,11 +135,11 @@ Paste in any lecture passage and race Pokémon opponents that scale to your WPM.
 
 <h2>Right Now</h2>
 
-📚 &nbsp;**Finishing the semester** — finals prep for all of my courses
+📚 &nbsp;**Preparing for next semester** — cracking open the textbooks for all of my courses
 <br/>
-🏆 &nbsp;**Just shipped** — AlphaMove · 2nd Place, Consumer Application Track · Princeton AI × Finance Hackathon (March 2026)
+🏆 &nbsp;**Just shipped** — Spark · Best Education · HackPrinceton Spring 2026
 <br/>
-⚡ &nbsp;**Coming up** — joining the ZERO Lab at Princeton HMEI this summer (energy systems optimization in Julia/Python under Jesse Jenkins)
+⚡ &nbsp;**This Summer** — interned @ the ZERO Lab (energy systems optimization in Julia/Python under Jesse Jenkins)
 
 ---
 
@@ -151,7 +151,7 @@ Paste in any lecture passage and race Pokémon opponents that scale to your WPM.
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lillianwang112/lillianwang112/output/github-snake.svg" width="100%" />
 </picture>
 
-*I build tools when existing ones frustrate me - and then I open-source them.*
+*Sometimes you wake up. Sometimes the fall kills you. And sometimes, when you fall, you fly. -- Neil Gaiman, The Sandman*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8590C&height=80&section=footer" width="100%"/>
 
