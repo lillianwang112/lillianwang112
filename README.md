@@ -26,94 +26,87 @@ When I'm not doing math or writing code, I'm probably side questing. Feel free t
 
 <h2>What I've Built</h2>
 
-<h3><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/icons/icon-72.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/chinese-learning-app/">中文-Learn</a></h3>
-
-<a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/screenshots/hero.jpeg" width="100%" alt="Chinese Learning App Hero" /></a>
-
-> A full-featured Chinese vocabulary app built for Princeton's CHI 108 — because Quizlet wasn't cutting it.
-
-**900+ vocab cards** across 25 topic decks. SM-2 spaced repetition, handwriting practice with animated stroke order, an AI tutor that grades practice tests (小考, quizzes, essays), configurable quizzes, cloud sync, and six study modes. Single-file React PWA with 238 commits and counting. Free, ad-free, open source.
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/spark/main/public/apple-touch-icon-180x180.png" width="22" align="top" alt="" />&nbsp;<a href="https://lillianwang112.github.io/spark/">Spark</a></h3>
+<a href="https://lillianwang112.github.io/spark/"><img src="https://raw.githubusercontent.com/lillianwang112/spark/main/public/hero.jpg" width="320" alt="Spark Hero" /></a>
+<blockquote><p>A curiosity engine for learning — built at HackPrinceton Spring 2026.</p></blockquote>
+<p><strong>🏆 Best Education · HackPrinceton Spring 2026</strong> · Won Meta Glasses.</p>
+<p>Explore knowledge with FreeFall topic discovery, AI-generated explainers and quizzes, and a care/tend/master retention workflow. Includes a visual knowledge tree, streak tracking, collaborative groups, and opportunity recommendations matched to what you're learning.</p>
 <p>
-<a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
-<a href="https://github.com/lillianwang112/chinese-learning-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
-<img src="https://img.shields.io/github/stars/lillianwang112/chinese-learning-app?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+<a href="https://lillianwang112.github.io/spark/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" height="20" alt="Launch App"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/spark"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="20" alt="Source"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/spark?style=for-the-badge&amp;color=E8590C&amp;label=Stars" height="20" alt="Stars"/>
 </p>
-
-`React` `Tailwind CSS` `Firebase` `Hanzi Writer` `Puter.js` `SM-2` `GitHub Pages`
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/icons/icon-96x96.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/tiger-calendar/">TigerCalendar</a></h3>
-
-<a href="https://lillianwang112.github.io/tiger-calendar/"><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/screenshots/hero.png" width="100%" alt="TigerCalendar Hero" /></a>
-
-> A Princeton-specific calendar PWA that turns your course schedule into something actually usable.
-
-Fast course setup, recurring events, drag-to-create, office hours tracking, exam/assignment modals, ICS export, swipe navigation, and Firebase sync. Designed for the way Princeton students actually plan their weeks.
-
+<p><sub><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Claude AI</code> <code>Firebase</code></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/alphamove-icon.png" width="22" align="top" />&nbsp;<a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
+<a href="https://lillianwang112.github.io/alphamove/"><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/hero.jpg" width="320" alt="AlphaMove Hero" /></a>
+<blockquote><p>Chess meets Duolingo for investing — an AI-mentored paper trading simulator built in 8 hours at Princeton's AI × Finance Hackathon.</p></blockquote>
+<p><strong>🏆 2nd Place, Track 1 — Consumer Application</strong> · AI@Princeton × Trade[XYZ] Hackathon · March 2026 · co-sponsored by Anthropic</p>
+<p>Before every trade, Alpha (your AI mentor) pressure-tests your reasoning using Socratic questioning. After every trade, you get a chess-style move rating — <em>brilliant, great, good, inaccuracy, mistake, blunder</em> — based on how well you thought, not just whether the stock went up. 10-level progressive mentor system, multi-asset trading (stocks, ETFs, crypto, options), AI morning brief, and a full XP/streak gamification layer.</p>
 <p>
-<a href="https://lillianwang112.github.io/tiger-calendar/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
-<a href="https://github.com/lillianwang112/tiger-calendar"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
-<img src="https://img.shields.io/github/stars/lillianwang112/tiger-calendar?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+<a href="https://lillianwang112.github.io/alphamove/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App" height="20"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/alphamove"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" height="20"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/alphamove?style=for-the-badge&color=E8590C&label=Stars" alt="Stars" height="20"/>
 </p>
-
-`React` `Firebase` `GitHub Pages`
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/icons/icon-192x192.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/axiom-study/">Axiom — Math Study Environment</a></h3>
-
-<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/screenshots/hero.png" width="100%" alt="Axiom Hero" /></a>
-
-> A math study environment built for active recall — because reading past theorems isn't the same as knowing them.
-
-Paste your lecture notes or textbook LaTeX and Axiom structures them into collapsible definitions, theorems, lemmas, and proofs. Problem sets link back to the relevant section, a flashcard review mode drills every block, and a context-aware AI tutor is one click away. Firebase sync, KaTeX rendering, study streak tracking. Free, ad-free, open source.
-
+<p><sub><code>React 19</code> <code>TypeScript</code> <code>Firebase</code> <code>Finnhub API</code> <code>Puter.js</code> <code>GitHub Pages</code></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/icons/icon-72.png" width="22" align="top" />&nbsp;<a href="https://lillianwang112.github.io/chinese-learning-app/">中文-Learn</a></h3>
+<a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://raw.githubusercontent.com/lillianwang112/chinese-learning-app/main/screenshots/hero.jpeg" width="320" alt="Chinese Learning App Hero" /></a>
+<blockquote><p>A full-featured Chinese vocabulary app built for Princeton's CHI 108 — because Quizlet wasn't cutting it.</p></blockquote>
+<p><strong>900+ vocab cards</strong> across 25 topic decks. SM-2 spaced repetition, handwriting practice with animated stroke order, an AI tutor that grades practice tests (小考, quizzes, essays), configurable quizzes, cloud sync, and six study modes. Single-file React PWA with 238 commits and counting. Free, ad-free, open source.</p>
 <p>
-<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
-<a href="https://github.com/lillianwang112/axiom-study"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
-<img src="https://img.shields.io/github/stars/lillianwang112/axiom-study?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+<a href="https://lillianwang112.github.io/chinese-learning-app/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App" height="20"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/chinese-learning-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" height="20"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/chinese-learning-app?style=for-the-badge&color=E8590C&label=Stars" alt="Stars" height="20"/>
 </p>
-
-`KaTeX` `Firebase` `Puter.js` `GitHub Pages`
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/alphamove-icon.png" width="28" align="top" />&nbsp;<a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
-
-<a href="https://lillianwang112.github.io/alphamove/"><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/hero.jpg" width="100%" alt="AlphaMove Hero" /></a>
-
-> Chess meets Duolingo for investing — an AI-mentored paper trading simulator built in 8 hours at Princeton's AI × Finance Hackathon.
-
-**🏆 2nd Place, Track 1 — Consumer Application** · AI@Princeton × Trade[XYZ] Hackathon · March 2026 · co-sponsored by Anthropic
-
-Before every trade, Alpha (your AI mentor) pressure-tests your reasoning using Socratic questioning. After every trade, you get a chess-style move rating — *brilliant, great, good, inaccuracy, mistake, blunder* — based on how well you thought, not just whether the stock went up. 10-level progressive mentor system, multi-asset trading (stocks, ETFs, crypto, options), AI morning brief, and a full XP/streak gamification layer.
-
+<p><sub><code>React</code> <code>Tailwind CSS</code> <code>Firebase</code> <code>Hanzi Writer</code> <code>Puter.js</code> <code>SM-2</code> <code>GitHub Pages</code></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/icons/icon-96x96.png" width="22" align="top" />&nbsp;<a href="https://lillianwang112.github.io/tiger-calendar/">TigerCalendar</a></h3>
+<a href="https://lillianwang112.github.io/tiger-calendar/"><img src="https://raw.githubusercontent.com/lillianwang112/tiger-calendar/main/screenshots/hero.png" width="320" alt="TigerCalendar Hero" /></a>
+<blockquote><p>A Princeton-specific calendar PWA that turns your course schedule into something actually usable.</p></blockquote>
+<p>Fast course setup, recurring events, drag-to-create, office hours tracking, exam/assignment modals, ICS export, swipe navigation, and Firebase sync. Designed for the way Princeton students actually plan their weeks.</p>
 <p>
-<a href="https://lillianwang112.github.io/alphamove/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App"/></a>&nbsp;
-<a href="https://github.com/lillianwang112/alphamove"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
-<img src="https://img.shields.io/github/stars/lillianwang112/alphamove?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+<a href="https://lillianwang112.github.io/tiger-calendar/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App" height="20"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/tiger-calendar"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" height="20"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/tiger-calendar?style=for-the-badge&color=E8590C&label=Stars" alt="Stars" height="20"/>
 </p>
-
-`React 19` `TypeScript` `Firebase` `Finnhub API` `Puter.js` `GitHub Pages`
-
-<br/>
-
+<p><sub><code>React</code> <code>Firebase</code> <code>GitHub Pages</code></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/icons/icon-192x192.png" width="22" align="top" />&nbsp;<a href="https://lillianwang112.github.io/axiom-study/">Axiom — Math Study Environment</a></h3>
+<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://raw.githubusercontent.com/lillianwang112/axiom-study/main/screenshots/hero.png" width="320" alt="Axiom Hero" /></a>
+<blockquote><p>A math study environment built for active recall — because reading past theorems isn't the same as knowing them.</p></blockquote>
+<p>Paste your lecture notes or textbook LaTeX and Axiom structures them into collapsible definitions, theorems, lemmas, and proofs. Problem sets link back to the relevant section, a flashcard review mode drills every block, and a context-aware AI tutor is one click away. Firebase sync, KaTeX rendering, study streak tracking. Free, ad-free, open source.</p>
+<p>
+<a href="https://lillianwang112.github.io/axiom-study/"><img src="https://img.shields.io/badge/Launch_App-E8590C?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch App" height="20"/></a>&nbsp;
+<a href="https://github.com/lillianwang112/axiom-study"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" height="20"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/axiom-study?style=for-the-badge&color=E8590C&label=Stars" alt="Stars" height="20"/>
+</p>
+<p><sub><code>KaTeX</code> <code>Firebase</code> <code>Puter.js</code> <code>GitHub Pages</code></sub></p>
+</td>
+<td width="50%" valign="top">
 <h3>⚡ <a href="https://github.com/lillianwang112/PokeRace">PokéRace</a></h3>
-
-<a href="https://github.com/lillianwang112/PokeRace"><img src="https://raw.githubusercontent.com/lillianwang112/PokeRace/main/screenshots/hero.jpeg" width="100%" alt="PokéRace Hero" /></a>
-
-> A Pokémon-themed typing race game that makes studying actually fun.
-
-Paste in any lecture passage and race Pokémon opponents that scale to your WPM. Features a full progression system with XP, leveling, and achievements, six playable Pokémon, light/dark mode, race history with WPM charts, and data import/export — all local, no backend.
-
+<a href="https://github.com/lillianwang112/PokeRace"><img src="https://raw.githubusercontent.com/lillianwang112/PokeRace/main/screenshots/hero.jpeg" width="320" alt="PokéRace Hero" /></a>
+<blockquote><p>A Pokémon-themed typing race game that makes studying actually fun.</p></blockquote>
+<p>Paste in any lecture passage and race Pokémon opponents that scale to your WPM. Features a full progression system with XP, leveling, and achievements, six playable Pokémon, light/dark mode, race history with WPM charts, and data import/export — all local, no backend.</p>
 <p>
-<a href="https://github.com/lillianwang112/PokeRace"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>&nbsp;
-<img src="https://img.shields.io/github/stars/lillianwang112/PokeRace?style=for-the-badge&color=E8590C&label=Stars" alt="Stars"/>
+<a href="https://github.com/lillianwang112/PokeRace"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" height="20"/></a>&nbsp;
+<img src="https://img.shields.io/github/stars/lillianwang112/PokeRace?style=for-the-badge&color=E8590C&label=Stars" alt="Stars" height="20"/>
 </p>
-
-`React` `Tailwind CSS` `localStorage`
+<p><sub><code>React</code> <code>Tailwind CSS</code> <code>localStorage</code></sub></p>
+</td>
+</tr>
+</table>
 
 ---
 
