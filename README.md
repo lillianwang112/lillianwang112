@@ -44,7 +44,7 @@ When I'm not doing math or writing code, I'm probably side questing. Feel free t
 <td width="50%" valign="top">
 <h3><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/alphamove-icon.png" width="22" align="top" />&nbsp;<a href="https://lillianwang112.github.io/alphamove/">AlphaMove — AI Paper Trading Simulator</a></h3>
 <a href="https://lillianwang112.github.io/alphamove/"><img src="https://raw.githubusercontent.com/lillianwang112/alphamove/main/public/hero.jpg" width="320" alt="AlphaMove Hero" /></a>
-<blockquote><p>Chess meets Duolingo for investing — an AI-mentored paper trading simulator built in 8 hours at Princeton's AI × Finance Hackathon.</p></blockquote>
+<blockquote><p>Chess meets Duolingo for investing — an AI-mentored paper trading simulator.</p></blockquote>
 <p><strong>🏆 2nd Place, Track 1 — Consumer Application</strong> · AI@Princeton × Trade[XYZ] Hackathon · March 2026 · co-sponsored by Anthropic</p>
 <p>Before every trade, Alpha (your AI mentor) pressure-tests your reasoning using Socratic questioning. After every trade, you get a chess-style move rating — <em>brilliant, great, good, inaccuracy, mistake, blunder</em> — based on how well you thought, not just whether the stock went up. 10-level progressive mentor system, multi-asset trading (stocks, ETFs, crypto, options), AI morning brief, and a full XP/streak gamification layer.</p>
 <p>
