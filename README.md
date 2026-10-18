@@ -18,7 +18,7 @@
 
 ---
 
-I'm a rising sophomore at **Princeton** majoring in **mathematics**. I'm currently working on systems-level problems in energy, computation, and policy, and ultimately chasing a PhD in applied math.
+I'm a sophomore at **Princeton University** majoring in **mathematics**. My current research interests include optimization and computational neuroscience and I'm ultimately working towards a PhD in applied math.
 
 When I'm not doing math or writing code, I'm probably side questing. Feel free to scroll down and check out some of the apps I built in last semester's side quest!
 
@@ -135,9 +135,9 @@ Paste in any lecture passage and race Pokémon opponents that scale to your WPM.
 
 <h2>Right Now</h2>
 
-📚 &nbsp;**Preparing for next semester** — cracking open the textbooks for all of my courses
+📚 &nbsp;**Fall Semester Grind** — in the middle of a busy 5 course semester
 <br/>
-🏆 &nbsp;**Just shipped** — Spark · Best Education · HackPrinceton Spring 2026
+🏆 &nbsp;**Latest Win** — Spark · Best Education · HackPrinceton Spring 2026
 <br/>
 ⚡ &nbsp;**This Summer** — interned @ the ZERO Lab (energy systems optimization in Julia/Python under Jesse Jenkins)
 
