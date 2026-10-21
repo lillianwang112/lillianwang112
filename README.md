@@ -18,7 +18,7 @@
 
 ---
 
-I'm a sophomore at **Princeton University** majoring in **mathematics**. My current research interests include optimization and computational neuroscience and I'm ultimately working towards a PhD in applied math.
+I'm a sophomore at **Princeton University** majoring in **mathematics**. My current research interests include optimization, computational neuroscience, AI alignment & safety and I'm ultimately working towards a PhD in applied math.
 
 When I'm not doing math or writing code, I'm probably side questing. Feel free to scroll down and check out some of the apps I built in last semester's side quest!
 
